@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cloud storage market is estimated at approximately $180 billion to $200 billion in 2026, projected to exceed $500 billion by the early 2030s driven by exponential generative-AI datasets, remote collaboration, and enterprise cloud migrations. The sector exhibits a highly concentrated, oligopolistic structure at the hyperscale foundation (where Microsoft, Google, and Amazon capture well over 60% of enterprise market share), while remaining moderately fragmented across consumer, privacy-centric zero-knowledge storage, and sovereign compliance-driven niches.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Dropbox](https://dropbox.com)**  
-
-  Cross-platform cloud file sync, block-level delta transfer, virtual smart-sync drive, and team collaboration platform.
-
-
-
-- **[Google Drive (Google Workspace)](https://google.com)**  
-
-  Ubiquitous cloud file storage, desktop virtual drive streaming, real-time document collaboration, and AI-indexed workspace platform.
-
-
-
-- **[Microsoft OneDrive](https://microsoft.com)**  
-
-  Deeply integrated Windows and Microsoft 365 cloud file sync service featuring Files On-Demand virtual mounting and Personal Vault 2FA storage.
-
-
-
-- **[Box](https://box.com)**  
-
-  Enterprise cloud content management and workflow platform offering granular governance, virtual drive desktop access, and customer-managed encryption keys.
-
-
-
-- **[pCloud](https://pcloud.com)**  
-
-  Cloud storage platform providing virtual drive mounting (`pCloud Drive`), lifetime storage plans, and optional client-side zero-knowledge encryption (`pCloud Crypto`).
-
-
-
-- **[MEGA](https://mega.io)**  
-
-  User-controlled end-to-end encrypted cloud drive, desktop folder sync, and secure file-transfer service with zero-knowledge key management.
-
-
-
-- **[Sync.com](https://sync.com)**  
-
-  Privacy-first cloud storage and file sync platform offering default client-side end-to-end encryption, granular link permissions, and compliance auditing.
-
-
-
-- **[Icedrive](https://icedrive.net)**  
-
-  Modern cloud storage service featuring Twofish client-side encryption, virtual drive integration, and fast browser/mobile media streaming.
-
-
-
-- **[Tresorit](https://tresorit.com)**  
-
-  Enterprise zero-knowledge end-to-end encrypted cloud storage and secure file-synchronization suite built for regulated industries.
-
-
-
-- **[Nextcloud Hub (Hosted Enterprise / Managed Providers)](https://nextcloud.com)**  
-
-  Managed enterprise hosting and commercial support tiers for Nextcloud Hub, combining cloud drive sync, office collaboration, and communication tools.
+| Platform | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limit | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft OneDrive](https://microsoft.com)** | ~$3.7T Market Cap / ~$245B+ Annual Revenue | $1.99/mo ($19.99/yr) for Microsoft 365 Basic (100 GB) | 5 GB free forever storage with a Microsoft account | Deeply integrated Windows and Microsoft 365 cloud file sync service featuring Files On-Demand virtual mounting and Personal Vault 2FA storage. |
+| **[Google Drive (Google Workspace)](https://google.com)** | ~$3.4T Market Cap (Alphabet) / ~$350B+ Annual Revenue | $1.99/mo for Google One (100 GB); $7.00/user/mo for Workspace Starter (30 GB/user) | 15 GB free forever pooled across Drive, Gmail, and Google Photos | Ubiquitous cloud file storage, desktop virtual drive streaming, real-time document collaboration, and AI-indexed workspace platform. |
+| **[Dropbox](https://dropbox.com)** | ~$7.3B Market Cap / ~$2.53B Annual Revenue | $9.99/mo (billed annually at $119.88/yr) for Plus (2 TB) | 2 GB free forever storage, max 3 connected devices, 30-day version history | Cross-platform cloud file sync, block-level delta transfer, virtual smart-sync drive, and team collaboration platform. |
+| **[Box](https://box.com)** | ~$5.9B Market Cap / ~$1.23B Annual Revenue | $10.00/mo (billed annually) for Personal Pro (100 GB) or $5.00/user/mo for Business Starter (3-user min) | 10 GB free forever storage, 250 MB single file upload limit | Enterprise cloud content management and workflow platform offering granular governance, virtual drive desktop access, and customer-managed encryption keys. |
+| **[Tresorit](https://tresorit.com)** | ~$7.3B Parent Turnover (Swiss Post) / ~$15M standalone ARR estimate | $5.59/mo (billed annually) for Personal Lite (50 GB); 14-day free trial on paid tiers | 3 GB free forever storage (Tresorit Basic), max 2 devices, 500 MB file upload limit | Enterprise zero-knowledge end-to-end encrypted cloud storage and secure file-synchronization suite built for regulated industries. |
+| **[MEGA](https://mega.io)** | ~$60M–$65M Annual Revenue / Private (~338M+ registered accounts) | €10.62/mo (~$11.50/mo or €119/yr) for Pro I (2 TB storage, 2 TB transfer) | 20 GB free forever encrypted storage (with dynamic bandwidth limits) | User-controlled end-to-end encrypted cloud drive, desktop folder sync, and secure file-transfer service with zero-knowledge key management. |
+| **[pCloud](https://pcloud.com)** | ~$10M–$15M Annual Revenue / Private (~22M+ users) | $4.99/mo (or $49.99/yr, $199 lifetime) for Premium (500 GB) | 10 GB free forever storage (unlocked via onboarding steps) | Cloud storage platform providing virtual drive mounting (`pCloud Drive`), lifetime storage plans, and optional client-side zero-knowledge encryption (`pCloud Crypto`). |
+| **[Nextcloud Hub (Hosted Enterprise / Managed Providers)](https://nextcloud.com)** | ~$5M–$10M Annual Revenue / Private | ~€5.00 to €15.00/user/mo via managed providers, or €68.00/user/yr for Nextcloud Enterprise (100-user min) | 100% free & open-source for self-hosting with unlimited users & storage (managed SaaS hosts typically offer 2 GB to 5 GB free trials) | Managed enterprise hosting and commercial support tiers for Nextcloud Hub, combining cloud drive sync, office collaboration, and communication tools. |
+| **[Sync.com](https://sync.com)** | ~$5.1M Annual ARR / Bootstrapped & Private | $8.00/mo (billed annually at $96/yr) for Solo Basic (2 TB) | 5 GB free forever zero-knowledge storage, max 5 connected devices, 3 share links | Privacy-first cloud storage and file sync platform offering default client-side end-to-end encryption, granular link permissions, and compliance auditing. |
+| **[Icedrive](https://icedrive.net)** | ~$1M–$3M Est. Annual Revenue / Private Bootstrapped | $2.99/mo (or $19.99/yr) for Lite (150 GB) | 10 GB free forever storage, 50 GB monthly bandwidth limit (no zero-knowledge encryption on free tier) | Modern cloud storage service featuring Twofish client-side encryption, virtual drive integration, and fast browser/mobile media streaming. |
 
 
 
