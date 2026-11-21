@@ -1,47 +1,63 @@
-# Awesome-Cloud-Storage-Decentralized-Drive-Sync
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Cloud Storage and Decentralized Drive Sync Banner" width="100%" />
+</p>
 
-## Top Cloud Storage & Decentralized Drive Sync Ecosystem
+# 🚀 Awesome Cloud Storage & Decentralized Drive Sync
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync?color=brightgreen&style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+## 🌟 Top Cloud Storage & Decentralized Drive Sync Ecosystem
 
-*Focused on Decentralized Drive Sync, Peer-to-Peer File Synchronization, Virtual Drive Mounts, Zero-Knowledge Cloud Drives & Self-Hosted Storage*  
+> **The definitive curated directory of SaaS/hosted cloud storage platforms & open-source GitHub projects.**  
+> *Engineered for peer-to-peer (P2P) file synchronization, virtual drive mounts (VDFS/FUSE), zero-knowledge end-to-end encrypted vaults, self-hosted private clouds, and distributed object storage.*
 
-**Last updated: November 2026**
-
-
+**Last updated: November 2026** 📅
 
 This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Cloud Storage & Decentralized Drive Sync**. These tools synchronize, index, mount, encrypt, and distribute files across local devices, personal servers, S3 buckets, and peer-to-peer networks without relying exclusively on centralized cloud silos.
 
+- 🏢 **Enterprise & Consumer SaaS Leaders:** Microsoft OneDrive, Google Drive, Dropbox, Box, pCloud, MEGA, Sync.com, Icedrive, Nextcloud Hub, and Tresorit.
+- 💻 **Open-Source Champions:** Decentralized/P2P virtual drives (`Spacedrive`, `Syncthing`, `Peergos`, `IPFS`), self-hosted cloud collaboration platforms (`Nextcloud`, `Seafile`, `ownCloud Infinite Scale`, `OpenCloud`), local device transfers (`LocalSend`), high-performance object stores (`MinIO`, `Garage`), enterprise multi-protocol gateways (`SFTPGo`, `FileBrowser`), distributed filesystems (`JuiceFS`), and encrypted virtual multi-cloud mounters (`rclone`, `Cryptomator`, `Restic`, `Kopia`, `BorgBackup`).
 
+Contributions welcome! 🤝 Open a Pull Request to suggest new entries or updates. Please keep descriptions factual and link to official documentation.
 
-**Examples** include Dropbox, Google Drive, Microsoft OneDrive, Box, pCloud, MEGA, Sync.com, Icedrive, Nextcloud Hub, Tresorit, and spacesdrive/twiligent (the category leaders and popular runtimes). 
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🔄 Peer-to-Peer & Decentralized File Synchronization](#-peer-to-peer--decentralized-file-synchronization)
+  - [🏠 Self-Hosted Cloud Drives & Collaboration Hubs](#-self-hosted-cloud-drives--collaboration-hubs)
+  - [🗄️ Object Storage & Distributed Filesystems](#️-object-storage--distributed-filesystems)
+  - [🔒 Client-Side Encryption, Virtual Mounts & Backup Engines](#-client-side-encryption-virtual-mounts--backup-engines)
+  - [🌐 Web File Managers & Multi-Protocol Access](#-web-file-managers--multi-protocol-access)
+- [🛠️ Architecture Recipes for Custom Systems](#️-architecture-recipes-for-custom-systems)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Share](#-support--share)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for decentralized/P2P virtual drives (`spacesdrive/twiligent`, `Spacedrive`, `Syncthing`, `Peergos`, `IPFS`), self-hosted enterprise sync platforms (`Nextcloud`, `ownCloud Infinite Scale`, `Seafile`, `OpenCloud`), and multi-cloud virtual drive mounters (`rclone`, `Cryptomator`) — ideal for privacy advocates, homelab builders, distributed teams, and developers seeking full data sovereignty.
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global cloud storage market is estimated at approximately **$180 billion to $200 billion in 2026**, projected to exceed **$500 billion by the early 2030s** driven by exponential generative-AI datasets, remote collaboration, and enterprise multi-cloud migrations. 
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+The sector exhibits a **highly concentrated, oligopolistic structure** at the foundational hyperscale tier—where the "Big Three" (Microsoft Azure, Google Cloud, and AWS) control over 60% of enterprise infrastructure spend. Concurrently, the consumer and developer layers remain **moderately fragmented**, with agile challengers driving fierce competition around zero-knowledge cryptography, client-side data sovereignty, decentralized peer-to-peer networks, and self-hosted private cloud ecosystems.
 
+---
 
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Support & Share](#support--share)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global cloud storage market is estimated at approximately $180 billion to $200 billion in 2026, projected to exceed $500 billion by the early 2030s driven by exponential generative-AI datasets, remote collaboration, and enterprise cloud migrations. The sector exhibits a highly concentrated, oligopolistic structure at the hyperscale foundation (where Microsoft, Google, and Amazon capture well over 60% of enterprise market share), while remaining moderately fragmented across consumer, privacy-centric zero-knowledge storage, and sovereign compliance-driven niches.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 | Platform | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -56,154 +72,156 @@ The global cloud storage market is estimated at approximately $180 billion to $2
 | **[Sync.com](https://sync.com)** | ~$5.1M Annual ARR / Bootstrapped & Private | $8.00/mo (billed annually at $96/yr) for Solo Basic (2 TB) | 5 GB free forever zero-knowledge storage, max 5 connected devices, 3 share links | Privacy-first cloud storage and file sync platform offering default client-side end-to-end encryption, granular link permissions, and compliance auditing. |
 | **[Icedrive](https://icedrive.net)** | ~$1M–$3M Est. Annual Revenue / Private Bootstrapped | $2.99/mo (or $19.99/yr) for Lite (150 GB) | 10 GB free forever storage, 50 GB monthly bandwidth limit (no zero-knowledge encryption on free tier) | Modern cloud storage service featuring Twofish client-side encryption, virtual drive integration, and fast browser/mobile media streaming. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
+*Ranked strictly in descending order by GitHub Stars.*
 
+### 🔄 Peer-to-Peer & Decentralized File Synchronization
 
-## Open-Source GitHub Projects
+- **[LocalSend](https://github.com/localsend/localsend)** [![Stars](https://img.shields.io/github/stars/localsend/localsend?style=social&color=white)](https://github.com/localsend/localsend/stargazers)  
+  An open-source cross-platform peer-to-peer file and folder transfer suite that communicates securely over the local Wi-Fi network without relying on third-party cloud servers.
 
+- **[Syncthing](https://github.com/syncthing/syncthing)** [![Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+  The flagship continuous, decentralized peer-to-peer file synchronization utility written in Go that synchronizes files directly across devices over TLS without centralized data interception.
 
+- **[Spacedrive](https://github.com/spacedriveapp/spacedrive)** [![Stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive?style=social&color=white)](https://github.com/spacedriveapp/spacedrive/stargazers)  
+  An open-source cross-platform file explorer and virtual distributed filesystem (VDFS) written in Rust that unifies local hard drives, cloud drives, and remote nodes into an encrypted mesh.
 
-- **[spacesdrive/twiligent (and Spacedrive `spacedriveapp/spacedrive`)](https://github.com)**  
+- **[IPFS Kubo](https://github.com/ipfs/kubo)** [![Stars](https://img.shields.io/github/stars/ipfs/kubo?style=social&color=white)](https://github.com/ipfs/kubo/stargazers)  
+  The foundational Go implementation of the InterPlanetary File System (IPFS)—a peer-to-peer hypermedia protocol for content-addressed, tamper-proof decentralized storage and distribution.
 
-  Open-source cross-platform file explorer and virtual distributed filesystem (VDFS) written in Rust that unifies local drives, external disks, and cloud storage into a single decentralized mesh.
+- **[Perkeep](https://github.com/perkeep/perkeep)** [![Stars](https://img.shields.io/github/stars/perkeep/perkeep?style=social&color=white)](https://github.com/perkeep/perkeep/stargazers)  
+  Open-source personal storage system written in Go modeled to store, sync, share, back up, and organize content-addressed personal life data across private and cloud endpoints.
 
-
-
-- **[Syncthing (`syncthing/syncthing`)](https://github.com)**  
-
-  Flagship continuous, decentralized open-source peer-to-peer file synchronization utility written in Go that syncs folders directly between devices over TLS without central servers.
-
-
-
-- **[Nextcloud (`nextcloud/server`)](https://github.com)**  
-
-  Leading self-hosted open-source content collaboration and cloud drive platform featuring desktop virtual-file sync clients, mobile apps, and optional end-to-end encryption.
-
-
-
-- **[ownCloud Infinite Scale — oCIS (`owncloud/ocis`)](https://github.com)**  
-
-  Cloud-native open-source file sync and share platform rewritten in Go as a single binary with zero database dependencies and high-performance S3/POSIX storage backends.
-
-
-
-- **[Seafile (`haiwen/seafile`)](https://github.com)**  
-
-  High-performance open-source file sync and share system featuring Git-like block-level delta syncing, virtual drive mounting (`SeaDrive`), and client-side encrypted libraries.
-
-
-
-- **[rclone (`rclone/rclone`)](https://github.com)**  
-
-  Essential open-source command-line cloud storage sync and FUSE virtual drive mounter supporting 70+ cloud providers, S3/WebDAV, and transparent `crypt` encryption.
-
-
-
-- **[Peergos (`Peergos/Peergos`)](https://github.com)**  
-
-  Open-source, decentralized, post-quantum end-to-end encrypted storage and file-sharing protocol built on IPFS with strong metadata privacy.
-
-
-
-- **[OpenCloud (`opencloud-eu/opencloud`)](https://github.com)**  
-
-  Community-driven open-source file management and drive sync platform forked from oCIS, focused on digital sovereignty, fast Go microservices, and open standards.
-
-
-
-- **[Cryptomator (`cryptomator/cryptomator`)](https://github.com)**  
-
-  Popular open-source, transparent client-side encryption tool creating virtual encrypted drives inside Dropbox, Google Drive, OneDrive, or any synced folder.
-
-
-
-- **[IPFS Kubo (`ipfs/kubo`)](https://github.com)**  
-
-  Foundational open-source Go implementation of the InterPlanetary File System (IPFS) for content-addressed, decentralized peer-to-peer file storage and distribution.
-
-
-
-- **[Perkeep (`perkeep/perkeep`)](https://github.com)**  
-
-  Open-source personal storage system written in Go for storing, syncing, sharing, modeling, and backing up content-addressed personal data for life.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Garage (`deuxfleurs-org/garage`)](https://deuxfleurs.fr)** and **[MinIO (`minio/minio`)](https://github.com)** for lightweight, geo-distributed, S3-compatible self-hosted object storage backends.
-
-- **[LocalSend (`localsend/localsend`)](https://github.com)** for open-source cross-platform peer-to-peer file and folder transfer over local Wi-Fi without cloud intermediaries.
-
-- **[git-annex (`joeyh/git-annex`)](https://branchable.com)** for managing, syncing, and tracking large binary files across distributed drives, removable media, and cloud remotes with Git.
-
-- **[JuiceFS (`juicedata/juicefs`)](https://github.com)** for an open-source, high-performance POSIX-compliant distributed filesystem built on top of Redis/SQL and S3 object storage.
-
-- **[Pydio Cells (`pydio/cells`)](https://github.com)** for a modern open-source Go-based enterprise document sharing and sync platform with microservice architecture.
-
-
-
-**Frameworks for building custom systems**: Combine **Syncthing** for serverless peer-to-peer device synchronization, **spacesdrive/twiligent (Spacedrive)** for unified multi-device file indexing, and **rclone (`crypt`) + Garage/MinIO** for encrypted, self-hosted S3-backed virtual drives.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Decentralized and peer-to-peer sync tools (`Syncthing`, `git-annex`) synchronize deletions and overwrites in real time; always pair file synchronization with versioned, immutable backups (`Restic`, `BorgBackup`).
-
-- With client-side zero-knowledge encryption tools (`Cryptomator`, `rclone crypt`, `Peergos`), losing your master passphrase or recovery key permanently renders stored data unrecoverable.
-
-
+- **[Peergos](https://github.com/Peergos/Peergos)** [![Stars](https://img.shields.io/github/stars/Peergos/Peergos?style=social&color=white)](https://github.com/Peergos/Peergos/stargazers)  
+  A decentralized, quantum-resistant, end-to-end encrypted cloud storage and social collaboration platform built on IPFS with total metadata privacy.
 
 ---
 
+### 🏠 Self-Hosted Cloud Drives & Collaboration Hubs
 
+- **[Nextcloud Server](https://github.com/nextcloud/server)** [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+  The industry-standard self-hosted open-source productivity and private cloud storage platform with virtual file sync clients, collaborative document editing, and granular sharing controls.
 
-**Made for privacy advocates, homelab builders, distributed teams, sysadmins, and open-source contributors.**  
+- **[Seafile](https://github.com/haiwen/seafile)** [![Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
+  High-performance open-source cloud file sync and share system featuring Git-like block-level delta synchronization, virtual drive streaming (`SeaDrive`), and client-side encryption.
 
-Let's make cloud storage and decentralized drive synchronization more open, resilient, and user-owned.
+- **[OpenCloud](https://github.com/opencloud-eu/opencloud)** [![Stars](https://img.shields.io/github/stars/opencloud-eu/opencloud?style=social&color=white)](https://github.com/opencloud-eu/opencloud/stargazers)  
+  A modern, high-concurrency cloud-native file sync and sharing platform built in Go microservices, architected for European digital sovereignty, open standards, and high-performance S3 backends.
+
+- **[Pydio Cells](https://github.com/pydio/cells)** [![Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)  
+  A mature enterprise-grade file sync and content collaboration engine rewritten as a lightweight Golang microservices platform with native S3 compatibility.
+
+- **[ownCloud Infinite Scale (oCIS)](https://github.com/owncloud/ocis)** [![Stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers)  
+  A cloud-native file sync and sharing platform compiled into a single self-contained Go binary with zero database dependencies and high-speed POSIX/S3 compatibility.
+
+---
+
+### 🗄️ Object Storage & Distributed Filesystems
+
+- **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
+  High-performance Kubernetes-native object storage suite with 100% S3 API compatibility designed for cloud-native AI pipelines, large-scale data lakes, and private cloud architectures.
+
+- **[JuiceFS](https://github.com/juicedata/juicefs)** [![Stars](https://img.shields.io/github/stars/juicedata/juicefs?style=social&color=white)](https://github.com/juicedata/juicefs/stargazers)  
+  High-performance POSIX-compliant distributed filesystem engineered on top of Redis/SQL metadata engines and scalable S3 object storage backends.
+
+- **[Garage](https://github.com/deuxfleurs-org/garage)** [![Stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=social&color=white)](https://github.com/deuxfleurs-org/garage/stargazers)  
+  Lightweight, geo-distributed, self-hosted S3-compatible object storage daemon written in Rust, purpose-built for homelabs, edge nodes, and decentralized multi-datacenter clusters.
+
+---
+
+### 🔒 Client-Side Encryption, Virtual Mounts & Backup Engines
+
+- **[rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
+  The "Swiss Army knife" of cloud storage: an essential command-line utility and FUSE virtual drive mounter supporting 70+ cloud remotes, S3/WebDAV, bidirectional sync, and transparent `crypt` encryption.
+
+- **[Restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
+  A fast, secure, efficient backup program written in Go that uses cryptographic deduplication to back up files to local drives, SFTP, and cloud object stores (S3, B2, Azure).
+
+- **[Cryptomator](https://github.com/cryptomator/cryptomator)** [![Stars](https://img.shields.io/github/stars/cryptomator/cryptomator?style=social&color=white)](https://github.com/cryptomator/cryptomator/stargazers)  
+  Multi-platform client-side encryption utility that creates transparently encrypted virtual hard drives inside Dropbox, Google Drive, OneDrive, or any local sync directory.
+
+- **[Kopia](https://github.com/kopia/kopia)** [![Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
+  Fast and secure open-source backup tool for Windows, macOS, and Linux that provides client-side encryption, content-addressed deduplication, snapshots, and virtual mount capabilities.
+
+- **[BorgBackup (Borg)](https://github.com/borgbackup/borg)** [![Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
+  Deduplicating authenticated backup program supporting authenticated encryption, compression, and remote repository access via SSH.
+
+- **[Duplicati](https://github.com/duplicati/duplicati)** [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
+  Free backup software to securely store encrypted, incremental, compressed backups on cloud storage providers and remote file servers.
+
+- **[git-annex](https://git-annex.branchable.com/)**  
+  Manage, track, and sync huge binary files and multimedia collections across distributed hard drives, removable USB storage, and remote cloud targets without checking contents directly into Git.
+
+---
+
+### 🌐 Web File Managers & Multi-Protocol Access
+
+- **[FileBrowser](https://github.com/filebrowser/filebrowser)** [![Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)  
+  Sleek, lightweight web-based file manager written in Go providing an interactive web interface to upload, manage, edit, and share files on a server or NAS within seconds.
+
+- **[SFTPGo](https://github.com/drakkan/sftpgo)** [![Stars](https://img.shields.io/github/stars/drakkan/sftpgo?style=social&color=white)](https://github.com/drakkan/sftpgo/stargazers)  
+  Fully featured and highly configurable event-driven file transfer solution supporting SFTP, HTTP/S, FTP/S, and WebDAV with local and cloud storage backends (S3, GCS, Azure Blob).
+
+---
+
+## 🛠️ Architecture Recipes for Custom Systems
+
+| Architectural Goal | Recommended Stack | Capabilities & Strengths |
+| :--- | :--- | :--- |
+| **Serverless Peer-to-Peer Sync** | `Syncthing` + `LocalSend` | Direct LAN and internet sync with zero external cloud dependencies or subscription fees. |
+| **Unified Virtual Filesystem Mesh** | `Spacedrive` + `rclone` | Consolidate disparate physical disks, cloud buckets, and network shares into a single indexable drive. |
+| **Self-Hosted Zero-Trust Cloud** | `Nextcloud Server` + `Cryptomator` | Enterprise-grade web collaboration and sync paired with client-side zero-knowledge encryption. |
+| **Geo-Distributed S3 Private Storage** | `Garage` or `MinIO` + `JuiceFS` | Highly resilient POSIX distributed filesystem powered by inexpensive multi-datacenter commodity nodes. |
+| **Encrypted Immutable Backup Pipeline** | `Restic` or `Kopia` + `Backblaze B2` / `Wasabi` | Content-addressed cryptographic deduplication with snapshot mounting and point-in-time rollbacks. |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly encouraged! Follow these simple steps:
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a topic branch** (`git checkout -b feature/add-new-storage-tool`).
+3. ✏️ **Add or update entries** in `README.md` following the standardized format and tables.
+4. 🏷️ **Ensure accurate categories, links, and pricing/star details**.
+5. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Cloud-Storage-Decentralized-Drive-Sync&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Share
+
+Thank you for exploring this curated repository! If you find this guide helpful for architecting your homelab, securing your private data, or building decentralized sync infrastructure, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to amplify its reach and help more developers discover it.
+- 🍴 **Fork and share** the link with your team, friends, and community on X/Twitter, Reddit, and LinkedIn.
+- ☕ **Sponsor my open-source work**: Support continuous maintenance and additions by buying me a coffee on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub Sponsors" />
+  </a>
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an **independent community-curated resource** — inclusion does not constitute a formal commercial endorsement.
+- Continuous peer-to-peer sync systems (e.g., `Syncthing`) immediately propagate file modifications and deletions across paired nodes; always maintain isolated, immutable, and versioned backups (e.g., via `Restic`, `Kopia`, or `BorgBackup`).
+- With client-side zero-knowledge encryption systems (such as `Cryptomator` or `rclone crypt`), losing your master password or recovery key permanently renders your encrypted files unrecoverable.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for privacy advocates, homelab builders, distributed teams, sysadmins, and open-source contributors.</b><br/>
+  <i>Let's make cloud storage and decentralized drive synchronization more resilient, open, and user-owned.</i>
+</p>
