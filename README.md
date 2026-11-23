@@ -225,3 +225,5 @@ Thank you for exploring this curated repository! If you find this guide helpful 
   <b>Built with ❤️ for privacy advocates, homelab builders, distributed teams, sysadmins, and open-source contributors.</b><br/>
   <i>Let's make cloud storage and decentralized drive synchronization more resilient, open, and user-owned.</i>
 </p>
+# Awesome-Cloud-Storage-Decentralized-Drive-Sync
+
